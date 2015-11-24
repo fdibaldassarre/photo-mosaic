@@ -61,3 +61,4 @@ log/*
 OLD/
 test/
 examples/res128.png.schema.cls
+examples/res*.png

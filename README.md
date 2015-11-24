@@ -52,10 +52,10 @@ Input:
 
 Result (--images-on-width 32):
 
-![input](https://raw.githubusercontent.com/fdibaldassarre/photo-mosaic/master/examples/res32.png)
+![input](https://raw.githubusercontent.com/fdibaldassarre/photo-mosaic/master/examples/res32.jpg)
 
 Result (--images-on-width 128 --shuffle --shuffle-geometry 0.7 --near-size 5):
 
-![input](https://raw.githubusercontent.com/fdibaldassarre/photo-mosaic/master/examples/res128.png)
+![input](https://raw.githubusercontent.com/fdibaldassarre/photo-mosaic/master/examples/res128.jpg)
 
 The images used are taken from the INRIA Holidays dataset.
