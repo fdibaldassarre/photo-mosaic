@@ -60,3 +60,4 @@ resources/*
 log/*
 OLD/
 test/
+examples/res128.png.schema.cls
